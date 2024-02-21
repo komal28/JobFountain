@@ -1,4 +1,4 @@
-package com.directoryapp
+package com.job_fountain
 
 import org.junit.Test
 
