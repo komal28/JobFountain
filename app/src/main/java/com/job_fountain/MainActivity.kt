@@ -25,7 +25,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Activity Lifecycle")
+                    Greeting("Activity Lifecycle Demo")
                 }
             }
         }
